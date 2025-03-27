@@ -20,15 +20,15 @@ We will use [Diabetes dataset](https://www.kaggle.com/uciml/pima-indians-diabete
 8. Age (`age`)
 
 
-## Target Variable
-The target variable represents whether an individual has diabetes or not, with binary values:
+## Target 
+The target variable represents whether an individual has diabetes or not:
 - 0 :  No diabetes
 - 1 :   Diabetes
 
 
 ## Model
 
-**K-Nearest Neighbors (KNN)** was used to predict diabetes, with the model being trained on the dataset and evaluated using key performance metrics such as `accuracy`, `precision`, `recall`, and `F1-score`. 
+**K-Nearest Neighbors (KNN)** algorithm  was used to predict diabetes, with the model being trained on the dataset and evaluated using key performance metrics such as `accuracy`, `precision`, `recall`, and `F1-score`. 
 
 
 ## Model Report
