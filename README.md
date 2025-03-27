@@ -28,7 +28,7 @@ The target variable represents whether an individual has diabetes or not:
 
 ## Model
 
-**K-Nearest Neighbors (KNN)** algorithm  was used to predict diabetes, with the model being trained on the dataset and evaluated using key performance metrics such as `accuracy`, `precision`, `recall`, and `F1-score`. 
+**K-Nearest Neighbors (KNN)** algorithm  was used to predict diabetes, with the model being trained on the dataset and evaluated using key performance metrics such as `accuracy`, `precision`, `recall` and `F1-score`. 
 
 
 ## Model Report
